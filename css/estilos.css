@@ -453,6 +453,7 @@ div.logos div.logophaser{
   width:  40px;
   margin-top: 20px
 }
+
 div.logos div.logobulma{ 
   background: url('../kidrat/assets/logos/logobulma.png');
   background-size: 100% 100%;
@@ -461,6 +462,25 @@ div.logos div.logobulma{
   width:80px;
   margin-top: 20px;
 }
+
+div.logos div.logovercel{ 
+  background: url('../kidrat/assets/logos/logovercel.jpeg');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 40px;
+  width:80px;
+  margin-top: 20px;
+}
+
+div.logos div.logonextjs{ 
+  background: url('../kidrat/assets/logos/logonextjs.png');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 40px;
+  width:80px;
+  margin-top: 20px;
+}
+
 
 .list-group-item {
   word-break: break-all;
